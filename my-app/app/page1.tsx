@@ -8,6 +8,7 @@ export default function Home() {
             className="px-4 py-1.5 rounded-lg text-sm font-medium text-white transition-all hover:opacity-90"
             style={{ backgroundColor: '#2F4F4F' }}
           >
+            
             Botão 1
           </button>
           <button 
