@@ -30,20 +30,51 @@ export default function Home() {
           </button>
         </div>
       </header>
-
-      {/* Área central vazia */}
+ggiahsgisdj90ga9s0jvisvja09       {/* Área central vazia */}
      
-        <main className="flex-1 flex items-center justify-center px-8 h-full">
-        <div 
-          className="w-full max-w-md p-8 rounded-xl shadow-lg"
-          style={{ backgroundColor: '#2F4F4F' }}
-        >
-          <h2 className="text-2xl font-bold text-white text-center mb-6">
+        <main className="flex-1 grid items-center justify-center px-8 h-full">
+             <h2 className="text-2xl font-bold text-white text-center mb-6">
             Escolha seu tema:
           </h2>
+        <div 
+          className="w-full max-w-[2000px] h-100 p-21 rounded-xl shadow-lg flex-1 flex items-center justify-center"
+          style={{ backgroundColor: '#2F4F4F' }}
+        >
+     
           
-         
+          <div 
+          className="w-full max-w-[300px] h-60 p-20 m-2 rounded-xl shadow-lg"
+          style={{ backgroundColor: '#fcfcfcff' }}
+        ></div>
+         <div 
+          className="w-full max-w-md h-60 p-20 m-2 rounded-xl shadow-lg"
+          style={{ backgroundColor: '#fcfcfcff' }}
+        ></div>
+           <div 
+          className="w-full max-w-md h-60 p-20 m-2 rounded-xl shadow-lg"
+          style={{ backgroundColor: '#fcfcfcff' }}
+        ></div>
+           <div 
+          className="w-full max-w-md h-60 p-20 m-2 rounded-xl shadow-lg"
+          style={{ backgroundColor: '#fcfcfcff' }}
+        ></div>
+           <div 
+          className="w-full max-w-md h-60 p-20 m-2 rounded-xl shadow-lg"
+          style={{ backgroundColor: '#fcfcfcff' }}
+        ></div>
+           <div 
+          className="w-full max-w-md h-60 p-20 m-2 rounded-xl shadow-lg"
+          style={{ backgroundColor: '#fcfcfcff' }}
+        ></div>
+           <div 
+          className="w-full max-w-md h-60 p-20 m-2 rounded-xl shadow-lg"
+          style={{ backgroundColor: '#fcfcfcff' }}
+        ></div>
+        
+
         </div>
+
+        
       
       </main>
 
